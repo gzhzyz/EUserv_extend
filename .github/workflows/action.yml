@@ -1,8 +1,8 @@
 name: 'EUserv Auto Extend'
   
 on:
-  workflow_dispatch:
-  push:
+  workflow_dispatch:    
+  push:     
     branches:
       - main
   schedule:
